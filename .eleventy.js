@@ -27,11 +27,11 @@ module.exports = function (config) {
     })
 
     // Linters (Development Only)
-    if (process.env.ELEVENTY_ENV !== 'production') {
-        Object.keys(linters).forEach((linterName) => {
-            config.addLinter(linterName, linters[linterName])
-        })
-    }
+    // if (process.env.ELEVENTY_ENV !== 'production') {
+    //     Object.keys(linters).forEach((linterName) => {
+    //         config.addLinter(linterName, linters[linterName])
+    //     })
+    // }
 
     // Icon Sprite
     config.addNunjucksAsyncShortcode('iconsprite', iconsprite)
