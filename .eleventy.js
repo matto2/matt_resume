@@ -4,7 +4,7 @@ const markdownIt = require('markdown-it')
 const filters = require('./utils/filters.js')
 const transforms = require('./utils/transforms.js')
 const shortcodes = require('./utils/shortcodes.js')
-const linters = require('./utils/linters.js')
+// const linters = require('./utils/linters.js')
 const iconsprite = require('./utils/iconsprite.js')
 
 module.exports = function (config) {

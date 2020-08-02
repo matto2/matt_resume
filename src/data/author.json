@@ -1,19 +1,19 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Matt O’Leary",
+    "occupation": "Product Designer",
+    "location": "Santa Cruz, CA",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "",
+    "email": "mattosurf@gmail.com",
+    "telephone": "",
+    "website": "https://olearystudios.com",
     "skills": [
+        "User Experience Design",
+        "Interaction Design",
+        "Information Architecture",
+        "Content",
         "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "CSS"
     ],
     "languages": [
         {
@@ -21,24 +21,24 @@
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
+            "name": "",
+            "level": ""
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "",
+            "level": ""
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@matto2",
+            "url": "https://github.com/matto2"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Matt O'Leary",
+            "url": "https://www.linkedin.com/in/olearystudios"
         }
     ]
 }
